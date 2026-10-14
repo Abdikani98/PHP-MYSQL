@@ -253,8 +253,9 @@
 
     <div class="header">
         <h1>PHP & MySQL Assignment</h1>
-        <p>Jamhuriya University of Science & Technology</p>
-        <p>Faculty of Computer & IT</p>
+        <p>Name: Abdikani Mohamud Nor</p>
+        <p>ID: C1230893</p>
+        <p>Class: CA232</p>
     </div>
 
 
